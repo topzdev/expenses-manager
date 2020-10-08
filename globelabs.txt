@@ -1,0 +1,10 @@
+
+
+code=aUdBqaMFqjxanHMdpqzsMBLRGFxjxM4fErKKesEKxbnf9E9q7Cd6bAkC7KeR5Ig9n96tGBogjuyAGkjFeG9Xjsyo5yaIReyoqsa9a9KtgrnARCExBroF7GMMeCp5Tr7nn7BcMnGC8kB54FRpn8rCdnakdt9ayX7sAp5KzIAR9Lbsa7G75FA6oR6uX4nkdtGgegMIdebbBC4G9RLCg4xbefp8KXbs4kxR4fo7LM8Fk8pB7so9xLxHA8qL8FEp9aqU
+
+short code: 21588750 (Cross-telco: 225658750)
+app_id :EMM9HxXyBqf4RcL5dgTyzefLnMXKHGLx
+app_secret : 873d56a47eebd737b596f3d949349a07fcce57f76e3f65cd2a037d023097afb8
+
+    "access_token": "F3QtyvJDd2Yk_mOmNdCHru49RMXEI1vD019926avcjw",
+    "subscriber_number": "9996658426"
